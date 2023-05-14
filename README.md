@@ -7,6 +7,6 @@ effects (radio, boiling water and refrigerator).
 ![img](img01.png)
 ![img](img02.png)
 ## How to install
-- [Download the ZIP file](https://drive.google.com/uc?export=download&id=1naVsnmnJFUDYieLdCx-EVPhDJtG_MC_8)
+- [Download the ZIP file (171MB)](https://drive.google.com/uc?export=download&id=1naVsnmnJFUDYieLdCx-EVPhDJtG_MC_8)
 - Extract all "Windows" folder 
 - Run "Basic Immersive Tour" file application
